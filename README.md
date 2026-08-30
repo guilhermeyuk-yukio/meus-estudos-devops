@@ -1,1 +1,1 @@
-# meus-estudos-devops1
+Minhas anotações de estudo em DevOps
