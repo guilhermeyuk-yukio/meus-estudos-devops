@@ -1,0 +1,10 @@
+   name: Meu primeiro workflow
+   
+   on: push
+   
+   jobs:
+     saudacao:
+       runs-on: ubuntu-latest
+       steps:
+         - name: Diz oi
+           run: echo "Olá, GitHub Actions! Esse workflow rodou automaticamente."
